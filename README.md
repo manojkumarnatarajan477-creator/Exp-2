@@ -1,4 +1,6 @@
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
+## NAME : MANOJ KUMAR N
+## REGISTER NUMBER : 212225230168
 
 ## AIM:
 To design and develop a Library Management System using UML diagrams to represent the activities, interactions, structure, and communication between Member, Librarian, Book Keeper, and Admin.
@@ -25,7 +27,7 @@ Identify the classes, attributes, methods, relationships, and interactions betwe
 Create all six UML diagrams using StarUML. Check the relationships, activities, message flow, and system structure to ensure that all diagrams correctly represent the Library Management System.
 
 ## DIAGRAMS:
-(upload all 6 diagrams)
+(Upload all 6 diagrams)
 ### USE CASE DIAGRAM
 <img width="1907" height="1014" alt="Usecase EX2" src="https://github.com/user-attachments/assets/a5cc56ed-43c9-49a7-935a-06bcd0c0e942" />
 
